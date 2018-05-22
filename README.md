@@ -1,2 +1,2 @@
-# thinkre.github.io
+# Thinkre
 This is a test!
